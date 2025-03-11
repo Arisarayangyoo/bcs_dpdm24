@@ -1,5 +1,13 @@
 # bcs_dpdm24ಥ_ಥ
-SIDS KKU Data Preparation and Data mining 💻⌨💕
+SIDS KKU Data Preparation and Data mining 💻⌨
 
-สัดส่วนคะแนน🔋🔋🔋
+📕อาจารย์ผู้สอน: ผศ.ดร.ธนพงศ์ อินทระ
+
+# สัดส่วนคะแนน🔋🔋🔋
+![image](https://github.com/user-attachments/assets/8c9ae1f6-eed0-4818-a648-7f1245d02fc0)
+
+
+# Chapter 1: Introduction to Data Mining
+Lecture 
+
 
