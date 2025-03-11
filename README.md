@@ -6,6 +6,9 @@ SIDS KKU Data Preparation and Data mining 💻⌨
 # สัดส่วนคะแนน🔋🔋🔋
 ![image](https://github.com/user-attachments/assets/8c9ae1f6-eed0-4818-a648-7f1245d02fc0)
 
+# Midterm
+# Project
+# Final
 
 # Chapter 1: Introduction to Data Mining
 Lecture 
