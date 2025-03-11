@@ -7,7 +7,7 @@ SIDS KKU Data Preparation and Data mining 💻⌨
 ![image](https://github.com/user-attachments/assets/8c9ae1f6-eed0-4818-a648-7f1245d02fc0)
 
 # Midterm 
->> midterm
+
 # Project
 # Final
 
