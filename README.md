@@ -10,4 +10,25 @@ SIDS KKU Data Preparation and Data mining 💻⌨
 # Chapter 1: Introduction to Data Mining
 Lecture 
 
+# Chapter 2 Getting to Know Your Data
+Lecture 
+
+Code 
+
+# Chapter 3 Data Preprocessing
+Lecture 
+
+Code 
+
+# Chapter 3 Data Preprocessing
+Lecture 
+
+Code 
+
+# Chapter 8 Classification: Basic Concepts
+HW4 
+Quiz10
+# Chapter 9 Classification: Advanced Methods
+# Chapter 10 Cluster Analysis: Basic Concepts and Methods
+
 
