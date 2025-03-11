@@ -11,7 +11,7 @@ SIDS KKU Data Preparation and Data mining 💻⌨
 # Final
 
 # Chapter 1: Introduction to Data Mining
-Lecture 
+Lecture >> 
 
 # Chapter 2 Getting to Know Your Data
 Lecture 
