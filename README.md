@@ -15,7 +15,7 @@ B+-D >> ตามเกณฑ์
 ตำบล (sub_district) ไหน ได้คะแนนทรัพย์ 'score' เฉลี่ยจากนักประเมินมากที่สุด (2 คะแนน)](https://github.com/Arisarayangyoo/bcs_dpdm24/blob/main/midterm_dpdm24.ipynb)
 
 # Project 📚
-* Code >> 
+* Code >> [Fraud Detection](https://github.com/Arisarayangyoo/bcs_dpdm24/blob/main/Data_Mining_Final_Project.ipynb)
 * Presentation >> [Fraud Detection](https://github.com/Arisarayangyoo/bcs_dpdm24/blob/main/Fraud%20Detection.pdf)
 
 # Final 🗃
